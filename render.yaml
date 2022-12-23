@@ -5,7 +5,7 @@ services:
     env: python
     buildCommand: pip3 install -r requirements.txt
     startCommand: python3 -m bot
-    repo: https://github.com/oVo-HxBots/Utubeitbot.git
+    repo: https://github.com/LiKH0N/Utuberender.git
     branch: master
     plan: pro ultra
     envVars:
